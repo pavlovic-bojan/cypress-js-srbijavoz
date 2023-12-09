@@ -1,0 +1,23 @@
+{
+  "name": "cypress-js-srbijavoz",
+  "version": "1.0.0",
+  "description": "This repository is the result of my independent project to train certain things in QA Automation UI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavlovic-bojan/cypress-js-srbijavoz.git"
+  },
+  "keywords": [],
+  "author": "Bojan Pavlovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavlovic-bojan/cypress-js-srbijavoz/issues"
+  },
+  "homepage": "https://github.com/pavlovic-bojan/cypress-js-srbijavoz#readme",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
