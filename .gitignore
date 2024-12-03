@@ -1,4 +1,4 @@
 # Project exclude paths
-/.vscode/
+.vscode/
 /node_modules/
-/.idea/
+.idea/
